@@ -1,4 +1,4 @@
-# Методы программирования 2: Множества на основе битовых полей
+﻿# Методы программирования 2: Множества на основе битовых полей
 
 [![Build Status](https://travis-ci.org/UNN-VMK-Software/mp2-lab1-set.svg)][travis]
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)][gitter]
@@ -142,3 +142,4 @@ __Цель данной работы__  — разработка структу�
 [slides]:      https://github.com/UNN-VMK-Software/mp2-lab1-set/tree/master/docs/slides
 [upstream]:    https://github.com/UNN-VMK-Software/mp2-lab1-set
 [gitter]:      https://gitter.im/UNN-VMK-Software/mp2-lab1-set
+qqq
