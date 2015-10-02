@@ -143,3 +143,5 @@ __Цель данной работы__  — разработка структу�
 [upstream]:    https://github.com/UNN-VMK-Software/mp2-lab1-set
 [gitter]:      https://gitter.im/UNN-VMK-Software/mp2-lab1-set
 qqq
+
+Изменения.
