@@ -1,0 +1,15 @@
+﻿Build started 18.11.2015 20:37:06.
+     1>Project "C:\Vladimir\mp2-lab1-set\sln\vc10\bitfield\bitfield.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Programs\VisualStudio\VC\bin\CL.exe /c /I../../../include /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt ..\..\..\src\tset.cpp
+         tset.cpp
+     1>c:\vladimir\mp2-lab1-set\src\tset.cpp(115): warning C4700: uninitialized local variable 'tmp' used
+       Lib:
+         D:\Programs\VisualStudio\VC\bin\Lib.exe /OUT:"C:\Vladimir\mp2-lab1-set\sln\vc10\Debug\bitfield.lib" /NOLOGO Debug\tbitfield.obj
+         Debug\tset.obj
+         bitfield.vcxproj -> C:\Vladimir\mp2-lab1-set\sln\vc10\Debug\bitfield.lib
+     1>Done Building Project "C:\Vladimir\mp2-lab1-set\sln\vc10\bitfield\bitfield.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.61
